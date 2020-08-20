@@ -24,7 +24,7 @@ Thanks for your chance to amaze us with your talent.!
 
 # Solution
 
-Reatc and node authentication application
+React and Node authentication application.
 
 ### Frontend Modal
 
