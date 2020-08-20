@@ -82,7 +82,7 @@ npm run dev
 
 Please do not hesitate to reach out with any questions.
 
-- Email- [Negin](negin_mashreghi@yahoo.com)
+- Email- negin_mashreghi@yahoo.com
 - [linkedin](https://www.linkedin.com/in/neginmashreghi/)
 
 
