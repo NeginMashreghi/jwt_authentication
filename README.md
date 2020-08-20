@@ -26,7 +26,7 @@ Thanks for your chance to amaze us with your talent.!
 
 React and Node authentication application.
 
-### Frontend Modal
+### Frontend 
 
 - [antd](https://ant.design/) : React UI libarary 
 - [react-redux](https://redux.js.org/basics/usage-with-react) : Managing state
@@ -37,7 +37,7 @@ React and Node authentication application.
 
 
 
-### Backend Modal
+### Backend 
 - [express](https://www.npmjs.com/package/express) :Node.js web application framework
 - [body-parser](https://www.npmjs.com/package/body-parser): Parse incoming request bodies
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken):An implementation of JSON Web Tokens.
