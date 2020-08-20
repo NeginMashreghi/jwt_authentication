@@ -1,3 +1,5 @@
+
+
 # Netwila Coding Challenge - FullStack Developer
 
 ## Challenge
@@ -18,3 +20,70 @@ We’re going to build a very simple authentication function which most applicat
 Once you finish this challenge please push it to GitHub and send back your work to us. 
 
 Thanks for your chance to amaze us with your talent.! 
+
+
+# Solution
+
+Reatc and node authentication application
+
+### Frontend Modal
+
+- [antd](https://ant.design/) : React UI libarary 
+- [react-redux](https://redux.js.org/basics/usage-with-react) : Managing state
+- [axios](https://github.com/axios/axios) : Sending asynchronous HTTP request to REST endpoints
+- [redux-thunk](https://github.com/reduxjs/redux-thunk) : Middleware that handels Async Actions
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) : DOM bindings for React Router
+- [jwt-decode](https://www.npmjs.com/package/jwt-decode): Decoding JWTs token
+
+
+
+### Backend Modal
+- [express](https://www.npmjs.com/package/express) :Node.js web application framework
+- [body-parser](https://www.npmjs.com/package/body-parser): Parse incoming request bodies
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken):An implementation of JSON Web Tokens.
+
+
+
+### Installation
+- Clone the repository
+- Open terminal make sure you are in **jwt_authentication** folder then start installing the packages by run these commands:
+
+```sh
+npm install
+npm run server-install
+npm run client-install
+
+
+```
+
+### RUN
+Run client on http://localhost:3000
+
+```sh
+npm run client
+
+```
+Run server on http://localhost:8000
+
+```sh
+npm run server
+
+```
+
+Run server and client 
+
+```sh
+npm run dev
+
+```
+
+
+## Contact
+
+Please do not hesitate to reach out with any questions.
+
+- Email- [Negin](negin_mashreghi@yahoo.com)
+- [linkedin](https://www.linkedin.com/in/neginmashreghi/)
+
+
+

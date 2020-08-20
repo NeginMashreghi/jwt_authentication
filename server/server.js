@@ -17,6 +17,7 @@ app.use(cors());
 // Routes Definitions
 app.use("/api/users", usersRouter);
 
+
 // Server Activation
 http.listen(port, () => {
     console.log(`Listening to requests on http://localhost:${port}`);

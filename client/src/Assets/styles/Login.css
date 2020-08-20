@@ -1,0 +1,46 @@
+@import '~antd/dist/antd.css';
+
+.login_page{
+    background: rgb(30,60,114);
+   
+    height: 100vh;
+}
+
+.login_form_wrapper{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    min-width: 400px;
+    padding: 2%;
+    background-color: white;
+}
+
+.login_titel{
+    color: #4D4F5C;
+    opacity: 0.5; 
+    margin-bottom:20px;
+}
+
+.login_titel_wrapper{
+    text-align:center;
+}
+
+.login_form .form_item{
+
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.login_form .input_item{
+     min-width: 250px;
+}
+
+.login_form  .button_item{
+    width: 100%;
+    background-color: #3971c6;
+ border-color: #3971c6 ;
+
+}

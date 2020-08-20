@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+.profile_page{
+    background: rgb(108, 151, 231);
+    height: 100vh;
+}
+.profile_info_wrapper{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    min-width: 300px;
+    padding: 2%;
+    background-color: white;
+}
